@@ -6,7 +6,7 @@ a = 2 b = 10 - max = 10
 a = -9 b = -3 - max = -3
 */
 
-/*
+
 Console.Write("Input number 1: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
@@ -27,7 +27,7 @@ else if (a == b)
 {
     Console.WriteLine("Числа равны!");
 }
-*/
+
 
 
 
@@ -41,7 +41,7 @@ else if (a == b)
 22 3 9 - 22
 */
 
-/*
+
 Console.Write("Input number 1: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
@@ -64,7 +64,7 @@ if (c > max)
 }
 
 Console.WriteLine("Максимальное число: " + max);
-*/
+
 
 
 
@@ -78,7 +78,7 @@ Console.WriteLine("Максимальное число: " + max);
 7 - нет
 */
 
-/*
+
 Console.Write("Input number: ");
 int N = Convert.ToInt32(Console.ReadLine());
 
@@ -91,7 +91,7 @@ if (N % 2 != 0)
 {
     Console.WriteLine("Число " + N + " - не чётное");
 }
-*/
+
 
 
 
